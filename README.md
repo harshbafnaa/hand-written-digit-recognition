@@ -62,4 +62,4 @@ This project is licensed under the MIT License.
 
 - Special thanks to the TensorFlow and Streamlit communities for their invaluable resources.
 
-- This projject was created by [Harsh Bafna] (https://github.com/harshbafnaa/).
+- This projject was created by [Harsh Bafna](https://github.com/harshbafnaa/).
